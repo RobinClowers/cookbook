@@ -1,0 +1,5 @@
+--- !ruby/object:Cookbook 
+recipes: 
+- !ruby/object:Recipe 
+  description: Heat pan, add butter, crack eggs, stir until done
+  title: Fried Eggs
