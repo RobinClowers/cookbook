@@ -3,3 +3,15 @@ recipes:
 - !ruby/object:Recipe 
   description: Heat pan, add butter, crack eggs, stir until done
   title: Fried Eggs
+- !ruby/object:Recipe 
+  description: this is a test
+  title: test
+- !ruby/object:Recipe 
+  description: another test
+  title: test 3
+- !ruby/object:Recipe 
+  description: ""
+  title: ""
+- !ruby/object:Recipe 
+  description: ""
+  title: ""

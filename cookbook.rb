@@ -1,3 +1,4 @@
+require 'shoes'
 require 'yaml'
 require './recipe'
 
